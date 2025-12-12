@@ -11,7 +11,7 @@ Una vez entregado el pedido, se puede ver todo lo agregado junto con el precio t
 
 ## Como runnear el server:
 
-Desde el directorio raíz del proyecto (2025-1-CC4401-grupo-7), ubicarse en la carpeta padre con el siguiente comando:
+Desde el directorio raíz del proyecto, ubicarse en la carpeta padre con el siguiente comando:
 
 > cd STP
 
