@@ -1,5 +1,3 @@
-## 2025-1-CC4401-grupo-7
-
 El sistema de toma de pedidos (STP) busca implementar una ayuda visual a la hora de pedir comida en un local, implementando una lista de platos los cuales pueden ser mostrados y así asegurar que al cliente no se olvide de pedir nada.
 
 ## Funcionalidad:
